@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1f3c&height=220&section=header&text=LTYcsv&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20Moscow&descAlignY=62&descSize=20&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:065f5a,100:0abab5&height=220&section=header&text=LTYcsv&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=f5d78e&desc=Fullstack%20Developer%20%C2%B7%20Moscow&descAlignY=62&descSize=20&descColor=c9a84c" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+production-grade+software+end-to-end;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI;Telegram+Mini+Apps+specialist;AI-first+%E2%80%94+decisions+still+mine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=c9a84c&center=true&vCenter=true&width=720&lines=Building+production-grade+software+end-to-end;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI;Telegram+Mini+Apps+specialist;AI-first+%E2%80%94+decisions+still+mine)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,9 +40,9 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LTYcsv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=LTYcsv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYcsv&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYcsv&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
@@ -63,6 +63,6 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f3c,50:0a1628,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0abab5,50:065f5a,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
