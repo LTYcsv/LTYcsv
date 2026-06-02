@@ -55,9 +55,13 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LTYcsv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=LTYcsv&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&stroke=0d1117"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYcsv&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&langs_count=6"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LTYcsv&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYcsv&bg_color=0d1117&color=c9a84c&line=0abab5&point=c9a84c&hide_border=true&area=true&area_color=0abab5" width="100%"/>
 
 </div>
 
