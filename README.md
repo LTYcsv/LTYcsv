@@ -14,15 +14,30 @@
 
 ## About
 
-```text
-Location  →  Moscow, Russia
-Focus     →  Fullstack · Telegram Mini Apps
-Approach  →  AI-first development workflow
-```
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<br/>
+
+📍 **Moscow, Russia**  
+🎯 **Fullstack · Telegram Mini Apps**  
+🤖 **AI-first development workflow**
+
+<br/>
 
 Student building production-structured software from database schema to deployed UI. Every project ships with real auth, proper migrations, Docker, and tests.
 
 Architecture decisions, tradeoffs, debugging — still mine. AI helps move faster and go deeper.
+
+</td>
+<td align="center" valign="middle" width="45%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
