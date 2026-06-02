@@ -69,15 +69,78 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 ## Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/LTYcsv/app_Budget"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=app_Budget&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
-<a href="https://github.com/LTYcsv/mamacare"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=mamacare&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+**[app\_Budget](https://github.com/LTYcsv/app_Budget) — Чек**
 
-<a href="https://github.com/LTYcsv/gym"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=gym&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
-<a href="https://github.com/LTYcsv/chill_dev"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=chill_dev&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+Personal finance tracker with analytics and forecasting
 
-</div>
+![React](https://img.shields.io/badge/React_19-0a1e1e?style=flat-square&logo=react&logoColor=0abab5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1e1e?style=flat-square&logo=typescript&logoColor=0abab5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1e1e?style=flat-square&logo=fastapi&logoColor=0abab5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1e1e?style=flat-square&logo=postgresql&logoColor=0abab5)
+![Docker](https://img.shields.io/badge/Docker-0a1e1e?style=flat-square&logo=docker&logoColor=0abab5)
+
+- Analytics dashboard with charts
+- Monte Carlo balance forecasting
+- Gamification system
+- Full auth · migrations · Docker Compose
+
+</td>
+<td width="50%" valign="top">
+
+**[mamacare](https://github.com/LTYcsv/mamacare) — MamaCare**
+
+Pregnancy diary with built-in AI assistant
+
+![React](https://img.shields.io/badge/React_19-0a1e1e?style=flat-square&logo=react&logoColor=0abab5)
+![Node.js](https://img.shields.io/badge/Node.js-0a1e1e?style=flat-square&logo=nodedotjs&logoColor=0abab5)
+![Express](https://img.shields.io/badge/Express-0a1e1e?style=flat-square&logo=express&logoColor=0abab5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1e1e?style=flat-square&logo=postgresql&logoColor=0abab5)
+
+- Wellbeing journal with daily tracking
+- AI assistant integrated
+- Doctor contacts in one place
+- Private data storage
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[gym](https://github.com/LTYcsv/gym)**
+
+Telegram Mini App for structured workouts
+
+![Python](https://img.shields.io/badge/Python-0a1e1e?style=flat-square&logo=python&logoColor=0abab5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1e1e?style=flat-square&logo=fastapi&logoColor=0abab5)
+![React](https://img.shields.io/badge/React-0a1e1e?style=flat-square&logo=react&logoColor=0abab5)
+![Telegram](https://img.shields.io/badge/Mini_App-0a1e1e?style=flat-square&logo=telegram&logoColor=0abab5)
+
+- Structured workout sessions
+- Native Telegram Mini App
+- FastAPI backend · PostgreSQL
+- Docker Compose setup
+
+</td>
+<td width="50%" valign="top">
+
+**[chill\_dev](https://github.com/LTYcsv/chill_dev)**
+
+Developer infrastructure platform MVP
+
+![Go](https://img.shields.io/badge/Go-0a1e1e?style=flat-square&logo=go&logoColor=0abab5)
+
+- "Kubernetes without Kubernetes"
+- API Gateway with auth middleware
+- Deploy · Build · Secrets · Logs
+- Designed for teams without DevOps overhead
+
+</td>
+</tr>
+</table>
 
 ---
 
