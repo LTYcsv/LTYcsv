@@ -69,14 +69,15 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 ## Projects
 
-| Project | Stack | What it is |
-|---------|-------|------------|
-| [app\_Budget](https://github.com/LTYcsv/app_Budget) | TypeScript · React · FastAPI · PostgreSQL | Finance tracker with analytics and Monte Carlo balance forecasts |
-| [mamacare](https://github.com/LTYcsv/mamacare) | JavaScript | Healthcare companion app |
-| [gym](https://github.com/LTYcsv/gym) | Python | Workout tracker |
-| [chill\_dev](https://github.com/LTYcsv/chill_dev) | Go | Developer culture project |
+<div align="center">
 
-> Repositories are complete and production-structured — not abandoned side projects.
+<a href="https://github.com/LTYcsv/app_Budget"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=app_Budget&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+<a href="https://github.com/LTYcsv/mamacare"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=mamacare&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+
+<a href="https://github.com/LTYcsv/gym"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=gym&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+<a href="https://github.com/LTYcsv/chill_dev"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LTYcsv&repo=chill_dev&bg_color=0d1117&title_color=c9a84c&icon_color=0abab5&text_color=c9d1d9&hide_border=true"/></a>
+
+</div>
 
 ---
 
