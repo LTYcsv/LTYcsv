@@ -55,7 +55,7 @@ Architecture decisions, tradeoffs, debugging — still mine. AI helps move faste
 
 <div align="center">
 
-<img height="175" src="https://streak-stats.demolab.com/?user=LTYcsv&hide_border=true&background=0a1e1e&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&stroke=0a1e1e"/>
+<img height="175" src="https://streak-stats.demolab.com/?user=LTYcsv&hide_border=false&background=2e3440&border=eceff4&stroke=2e3440&ring=88c0d0&fire=88c0d0&currStreakLabel=e5e9f0&sideLabels=e5e9f0&dates=e5e9f0&sideNums=eceff4&currStreakNum=eceff4"/>
 &nbsp;&nbsp;
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LTYcsv&theme=nord_dark"/>
 
